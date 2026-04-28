@@ -1,6 +1,6 @@
 ### 🚀 Deployed Contract Link
-**[View on Stellar.Expert Explorer](https://stellar.expert/explorer/testnet/contract/CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O)**
-https://stellar.expert/explorer/testnet/contract/CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O
+## Explorer
+**https://stellar.expert/explorer/testnet/contract/CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O**
 
 
 # ♿ KayaAccess
