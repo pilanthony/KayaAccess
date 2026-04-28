@@ -25,7 +25,7 @@ Stellar Testnet
   |-- KayaAccess Smart Contract (ID Registry & Disbursement logic)
   |-- USDC Token Contract       (Stellar Asset Contract / SEP-41)
 ___________________________________________________________________________________________________________________________________________________________________________________________
-## 📂 Project Structure
+##  📂 Project Structure
 
 kaya-access-proj/
 ├── contracts/
@@ -38,27 +38,26 @@ kaya-access-proj/
 └── README.md
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
-## ✨ Stellar Features Used
+##  ✨ Stellar Features Used
 Feature                         Usage
 Soroban Smart Contracts         Core registry for tamper-proof ID verification and payout logic.
 Stellar Asset Contract (SAC)    Integration with USDC/XLM for secure, stable aid disbursement.
 Events                          Real-time logging of ID verifications for merchant and government audits.
 Auth & Security                 env.mock_all_auths() and address-based authorization to prevent unauthorized aid disbursement.
 ____________________________________________________________________________________________________________________________________________________________________________________________
-## 🚀 Smart Contract
+##  🚀 Smart Contract
 
 **The contract is deployed and verified on the Stellar Testnet.**
 
 **Contract ID:** `CANNROOD4KQLWKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O`
 **Explorer Link:** [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O)
 ____________________________________________________________________________________________________________________________________________________________________________________________
-## 🛠️ Build & Test
+##  🛠️ Build & Test
 # Build the contract
 stellar contract build
 
-# Run unit tests
+##  Run unit tests
 stellar contract test
 
-## 📄 License
+##  📄 License
 This project is licensed under the MIT License.
----
