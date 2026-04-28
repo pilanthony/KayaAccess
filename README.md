@@ -1,3 +1,8 @@
+### 🚀 Deployed Contract Link
+**[View on Stellar.Expert Explorer](https://stellar.expert/explorer/testnet/contract/CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O)**
+https://stellar.expert/explorer/testnet/contract/CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O
+
+
 # ♿ KayaAccess
 
 **KayaAccess** is a decentralized identity and financial aid distribution platform for PWD communities in the Philippines, built on Stellar.
