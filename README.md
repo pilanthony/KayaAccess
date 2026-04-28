@@ -7,7 +7,7 @@
 * **Contract ID:** `CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O`
 
 ## 🛠 Project Structure
-.
+```text
 ├── contracts
 │   └── kaya-access
 │       ├── src
