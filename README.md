@@ -37,33 +37,27 @@ kaya-access-proj/
 ├── Cargo.toml
 └── README.md
 
-##✨ Stellar Features Used
+✨ Stellar Features Used
 Feature                         Usage
 Soroban Smart Contracts         Core registry for tamper-proof ID verification and payout logic.
 Stellar Asset Contract (SAC)    Integration with USDC/XLM for secure, stable aid disbursement.
 Events                          Real-time logging of ID verifications for merchant and government audits.
 Auth & Security                 env.mock_all_auths() and address-based authorization to prevent unauthorized aid disbursement.
 
-##🚀 Smart Contract
-**Deployed on Stellar Testnet:**
-
-```text
-Contract ID:
+🚀 Smart Contract
+Deployed on Stellar Testnet:
 CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O
 
-https://stellar.expert/explorer/testnet/tx/bea5553f49b817595e5ca11a071bcf6b25110f200639739363d925ae3e16193a
-
-**<img width="1910" height="841" alt="image" src="https://github.com/user-attachments/assets/da49bbf1-4f02-4c2b-b6d3-a02322fe1bc0" />
 
 
-##🛠️ Build & Test
+🛠️ Build & Test
 # Build the contract
 stellar contract build
 
-## Run unit tests
+# Run unit tests
 stellar contract test
 
-##📄 License
+📄 License
 This project is licensed under the MIT License.
 ---
 
