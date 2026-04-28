@@ -7,7 +7,7 @@ ________________________________________________________________________________
 KayaAccess uses a Soroban smart contract to anchor cryptographically hashed PWD IDs on-chain, allowing merchants to instantly verify an ID's authenticity via a web app, while enabling the LGU or DSWD (Department of Social Welfare and Development) to disburse programmed XLM/USDC cash aid directly and transparently to verified PWD wallets.
 ____________________________________________________________________________________________________________________________
 
-## Demo Flow
+### Demo Flow
 
 ## Architecture
 * **Smart Contract:** Built with Rust and the Soroban SDK.
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 ## Build and Deploy Instructions
 **1. Build the Contract:**
-`stellar contract build --manifest-path contracts/hello-world/Cargo.toml`
+`stellar contract build --manifest-path contracts/kaya-access/Cargo.toml`
 
 **2. Deploy to Testnet:**
 `stellar contract deploy --wasm target/wasm32v1-none/release/kaya_access.wasm --network testnet --source stellar-ide-default`
@@ -35,7 +35,7 @@ This repository uses the recommended structure for a Soroban project:
 ```text
 .
 ├── contracts
-│   └── hello_world
+│   └── kaya-access
 │       ├── src
 │       │   ├── lib.rs
 │       │   └── test.rs
@@ -64,8 +64,7 @@ ________________________________________________________________________________
 ## Smart Contract
 Deployed on Stellar testnet:
 
-Contract ID:
-CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O
+**Contract ID:** 'CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O'
 
 https://stellar.expert/explorer/testnet/tx/bea5553f49b817595e5ca11a071bcf6b25110f200639739363d925ae3e16193a
 
