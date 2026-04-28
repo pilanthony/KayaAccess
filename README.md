@@ -27,6 +27,7 @@ Stellar Testnet
 ___________________________________________________________________________________________________________________________________________________________________________________________
 ##  📂 Project Structure
 
+```text
 kaya-access-proj/
 ├── contracts/
 │   └── kaya-access/
@@ -38,12 +39,14 @@ kaya-access-proj/
 └── README.md
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
-##  ✨ Stellar Features Used
-Feature                         Usage
-Soroban Smart Contracts         Core registry for tamper-proof ID verification and payout logic.
-Stellar Asset Contract (SAC)    Integration with USDC/XLM for secure, stable aid disbursement.
-Events                          Real-time logging of ID verifications for merchant and government audits.
-Auth & Security                 env.mock_all_auths() and address-based authorization to prevent unauthorized aid disbursement.
+## ✨ Stellar Features Used
+
+| Feature | Usage |
+| :--- | :--- |
+| **Soroban Smart Contracts** | Core registry for tamper-proof ID verification and payout logic. |
+| **Stellar Asset Contract (SAC)** | Integration with USDC/XLM for secure, stable aid disbursement. |
+| **Events** | Real-time logging of ID verifications for merchant and government audits. |
+| **Auth & Security** | `env.mock_all_auths()` and address-based authorization to prevent unauthorized aid disbursement. |
 ____________________________________________________________________________________________________________________________________________________________________________________________
 ##  🚀 Smart Contract
 
@@ -53,7 +56,8 @@ ________________________________________________________________________________
 **Explorer Link:** [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O)
 ____________________________________________________________________________________________________________________________________________________________________________________________
 ##  🛠️ Build & Test
-# Build the contract
+### Build the contract
+```bash
 stellar contract build
 
 ##  Run unit tests
