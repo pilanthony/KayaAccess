@@ -47,6 +47,7 @@ Auth & Security                 env.mock_all_auths() and address-based authoriza
 🚀 Smart Contract
 Deployed on Stellar Testnet:
 CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O
+https://stellar.expert/explorer/testnet/tx/bea5553f49b817595e5ca11a071bcf6b25110f200639739363d925ae3e16193a
 
 🛠️ Build & Test
 # Build the contract
