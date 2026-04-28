@@ -44,13 +44,13 @@ Stellar Asset Contract (SAC)    Integration with USDC/XLM for secure, stable aid
 Events                          Real-time logging of ID verifications for merchant and government audits.
 Auth & Security                 env.mock_all_auths() and address-based authorization to prevent unauthorized aid disbursement.
 
-🚀 Smart Contract
-Deployed on Stellar Testnet:
-CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O
+## 🚀 Smart Contract
+**The contract is deployed and verified on the Stellar Testnet.**
 
+**Contract ID:** `CANNROOD4KQLWKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O`
+**Explorer Link:** [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O)
 
-
-🛠️ Build & Test
+##🛠️ Build & Test
 # Build the contract
 stellar contract build
 
