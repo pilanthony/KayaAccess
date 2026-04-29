@@ -18,6 +18,8 @@ function App() {
     setStatus("Connecting to Stellar Testnet...");
     
     try {
+      // The KayaAccess Smart Contract on Stellar Testnet
+      const contractId = "CANNROOD4KQLWKGKQ6FYPD2GSBGBORDNTXSMEPF7ZH37ALQFFOESYA5O";
       /**
        * MANUAL BRIDGE:
        * Instead of using the buggy 'client.verify_id', we talk to the 
